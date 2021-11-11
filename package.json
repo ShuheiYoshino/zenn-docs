@@ -1,0 +1,24 @@
+{
+  "name": "zenn-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preview": "npx zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShuheiYoshino/zenn-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShuheiYoshino/zenn-docs/issues"
+  },
+  "homepage": "https://github.com/ShuheiYoshino/zenn-docs#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.95"
+  }
+}
